@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Resumeviewer/static/css/main.07d75336.css",
+    "main.js": "/Resumeviewer/static/js/main.653169fc.js",
+    "index.html": "/Resumeviewer/index.html",
+    "main.07d75336.css.map": "/Resumeviewer/static/css/main.07d75336.css.map",
+    "main.653169fc.js.map": "/Resumeviewer/static/js/main.653169fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07d75336.css",
+    "static/js/main.653169fc.js"
+  ]
+}
